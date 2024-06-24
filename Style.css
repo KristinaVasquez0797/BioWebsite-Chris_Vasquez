@@ -1,0 +1,129 @@
+html{
+    background-color: white;
+}
+.bhutuka-expanded-one-regular {
+    font-family: "BhuTuka Expanded One", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .gowun-batang-regular {
+    font-family: "Gowun Batang", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+ .title{
+    height: 154px;
+    background-image: url(/csd/BioWebsite-Chris_Vasquez/images/Untitled-1.png);
+    width: auto;
+    align-content: center;
+ }
+h1{
+    text-align: center;
+    font-family: "BhuTuka Expanded One", serif;
+}
+h2{
+    font-family: "BhuTuka Expanded One", serif;
+    color: 	#5499C7 ;
+    font-style: bold;
+}
+.content{
+    padding-top: 10px;
+}
+.intro{
+    padding-top: 2%;
+    padding-bottom: 0%;
+}
+
+.imgmap{
+    padding-left: 33%;
+    
+}
+.pic1{
+    padding-right: 55px;
+    padding-left: 25px;
+    float: left;
+}
+.first{
+    padding-left: 35px;
+}
+p, ul{
+    font-family: "Gowun Batang", serif;
+    font-size: x-large;
+    flex-wrap: wrap;
+}
+.second{
+    padding-left: 15px;
+}
+.third{
+    padding-left: 15px;
+}
+a{
+    text-decoration: none;
+    color: #7FB3D5;
+}
+a:hover{
+    text-decoration: underline;
+    background-color: #154360;
+    color: #F2F4F4;
+}
+ul{
+    list-style-image: url(/csd/BioWebsite-Chris_Vasquez/images/shark-doodle.png);
+}
+.grid-container{
+    display: -ms-inline-grid;
+    column-gap: 8px;
+    row-gap: 8px;
+}
+.pic2{
+    grid-column-start: 1;
+    grid-column-end: 2;
+    padding-right: 5%;
+    float: left;
+}
+.item-pic3{
+    padding-right: 5%;
+    grid-column-start: 1;
+    grid-column-end: 1;
+    float: left;
+}
+.item-pic4{
+    padding-right: 5%;
+    grid-column-start: 2;
+    grid-column-end: 2;
+}
+.item-pic6{
+    padding-right: 5%;
+    grid-column-start: 2;
+    grid-column-end: 2;
+    float: left;
+}
+.fourth{
+    padding-left: 15px;
+    float: left;
+}
+.fifth{
+    padding-left: 15px;
+    float: left;
+}
+.item-pic5{
+    padding-right: 5%;
+    grid-column-start: 1;
+    grid-column-end: 1;
+    float: right;
+}
+.item-pic7{
+    padding-right: 5%;
+    padding-bottom: 5%;
+    grid-column-start: 1;
+    grid-column-end: 1;
+    float: left;
+}
+.navbar {
+    padding-top: 15px;
+    overflow: hidden;
+    text-align: center;
+    font-family: "BhuTuka Expanded One", serif;
+}
+.navbar a {
+    color: black;
+}
